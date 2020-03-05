@@ -1,0 +1,13 @@
+//Criar metodo somar() que retorna a soma de dois inteiros
+//criar o metodo proximo() que retorna o proximo numero
+//criar o metodo dobro() que retorna o dobro do seu numero
+
+public class Exercicio {
+	public static int soma(int numeroUm, int numeroDois) {
+		return numeroUm + numeroDois;
+		}
+	public static void main(String[] args) {
+		int resultado = soma (3, 2);
+		System.out.println("soma de 3 + 2 é igual a: " + resultado);
+	}
+}

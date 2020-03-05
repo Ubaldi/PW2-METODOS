@@ -1,0 +1,10 @@
+//Criar metodo somar() que retorna a soma de dois inteiros
+//criar o metodo proximo() que retorna o proximo numero
+//criar o metodo dobro() que retorna o dobro do seu numero
+
+public class Exercicio {
+	public static int somar(int numeroUm, int numeroDois) {
+		return numeroUm + numeroDois;
+		}
+
+}
