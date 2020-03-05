@@ -16,8 +16,8 @@ public class ExemplosComRetorno {
 	public static void main(String[] args) {
 		String nome = concatenar("Arthur","Ubaldi");
 		int tamanho = tamanhoNomeCompleto("Arthur","Ubaldi");
-		System.out.println("nome: " + nome);
-		System.out.println("Qtde: " + tamanho + " caracteres");
+		System.out.println("nome:" + nome);
+		System.out.println("Qtde:" + tamanho + " caracteres");
 	}
 }
 		 
